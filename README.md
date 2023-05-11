@@ -16,3 +16,9 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=aishikrehman&show_icons=true&locale=en" alt="aishikrehman" />
   <img  style='margin-right: 5px' src="https://github-readme-streak-stats.herokuapp.com/?user=aishikrehman&" alt="aishikrehman"/></p>
 
+<script>
+  // Refresh the page every 5 seconds
+setTimeout(function() {
+  location.reload();
+}, 5000);
+</script>
