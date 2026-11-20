@@ -1,5 +1,5 @@
 ## Aishik Rehman , a Wikimedian, Lexicologist & CSEr. from Bangladesh <br>
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://aishikrehman.com/)](https://aishiki.com.bd/) 
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://aishikrehman.com/)](https://aishik.com.bd/) 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-aishikrehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishikrehman/)](https://www.linkedin.com/in/aishikrehman/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/aishikrehman?label=follow&style=social)](https://github.com/aishikrehman)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
